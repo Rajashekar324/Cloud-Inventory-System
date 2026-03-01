@@ -20,3 +20,13 @@ htmlcov/
 # IDEs
 .vscode/
 .idea/
+
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+mysql_data/
+mongo_data/
+node_modules/
+.DS_Store
