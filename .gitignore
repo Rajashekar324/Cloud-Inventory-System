@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+
+# Docker
+.dockerignore
+
+# Testing
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
